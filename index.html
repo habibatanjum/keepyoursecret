@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Keep your secrets</title>
+        <style>
+            html, body {
+                margin: 10px;
+                background-color: #18171d;
+                cursor: none;
+            }
+            canvas {
+                display: block;
+                margin: auto;
+                background-image: url('./assets/floor_1.png');
+                background-repeat: repeat;
+            }
+            @font-face {
+                font-family: 'ScoreFont';
+                src: url('./assets/color-basic.regular.ttf');
+            }
+            div {
+                position: absolute;
+                top: 80px;
+                left: 40px;
+                width: 200px;
+                height: 100px;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <canvas id="game"></canvas>
+        <div>
+            <p>Controls:<br>
+            Use ↑ key to move up<br>
+            Use ↓ key to move down<br>
+            Use → key to move right<br>
+            Use ← key to move left<br>
+            Use F key to interact<br>
+            Press P key to open/close<br>
+            the shop</p>
+        </div>
+        <script src="./build/app.js" type="module"></script>
+    </body>
+</html>

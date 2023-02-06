@@ -1,0 +1,73 @@
+{
+    "Somebody that you don't know requests to follow you on Instagram, what do you do?":  
+    "অচেনা কেউ ইনস্টাগ্রামে অনুসরণ করার অনুরোধ করলে আপনি কী করেন?",
+    "I accept the request.": "আমি অনুরোধ গ্রহণ করি।",
+    "I ask my friends if they know this person.": "আমি আমার বন্ধুদের জিজ্ঞাসা করি তারা এই ব্যক্তিকে চেনে কিনা।",
+    "I decline the request.": "আমি অনুরোধ প্রত্যাখ্যান করি।",
+
+    "Somebody that you don't know wants to send you a message on Instagram, what do you do?":
+    "অচেনা কেউ আপনাকে ইনস্টাগ্রামে একটি বার্তা পাঠাতে চায়, আপনি কী করেন?",
+    "I message them back.": "আমি তাদের ফিরতি বার্তা দেই।",
+    "I ask my parents for help.": "আমি আমার বাবা-মাকে সাহায্যের জন্য জিজ্ঞাসা করি।",
+    "I ignore the message.": "আমি বার্তা উপেক্ষা করি। ",
+
+    "A random person calls you, you don't recognize the number and you don't have it saved in your phone. What do you do?":
+    "কোন অচেনা ব্যক্তি আপনাকে কল করলে আপনি কি করেন?",
+    "I don't answer.": "আমি উত্তর দিই না।",
+    "I answer and ask who it is.": "আমি উত্তর করি এবং জিজ্ঞাসা করি এটা কে।",
+    "I block the number.": "নাম্বার ব্লক করে দেই।",
+
+    "You receive a text message from an unknown number, telling you to 'click this link right now!'. What do you do?":
+    "কোন অজানা নাম্বার থেকে  'এখনই এই লিঙ্কে ক্লিক করুন!' দেখলে আপনি কি করেন?",
+    "I text the person back and ask why I should click the link.": "আমি সেই ব্যক্তিকে জিজ্ঞাসা করি কেন আমি লিঙ্কটি ক্লিক করবো। ",
+    "I ignore the message": "আমি বার্তা উপেক্ষা করি। ",
+    "I click the link to see what happens.": "কি ঘটবে তা দেখতে আমি লিঙ্কে ক্লিক করি। ",
+
+    "You are browsing on a website and come across a pop-up that tells you that you have won a brand new iPhone 14 Pro Max for free, you’ll just need to fill in some personal details. What do you do?":
+    "আপনি একটি ওয়েবসাইটে ব্রাউজ করছেন এবং একটি পপ-আপে এসেছেন যা আপনাকে বলে যে আপনি বিনামূল্যে একটি নতুন iPhone 14 Pro Max জিতেছেন, আপনাকে শুধু কিছু ব্যক্তিগত বিবরণ পূরণ করতে হবে। আপনি কি করেন?",
+    "I click on the pop-up and enter all the personal information that is asked.": "আমি পপ-আপে ক্লিক করি এবং সমস্ত ব্যক্তিগত তথ্য দেই। ",
+    "I show my parents and friends that I have won an iPhone.": "আমি আমার বাবা-মা এবং বন্ধুদের দেখাই যে আমি একটি আইফোন জিতেছি।",
+
+    "A website promises you free movies but doesn’t let you in unless you enter credit card information. What do you do?":
+    "একটি ওয়েবসাইট আপনাকে বিনামূল্যে চলচ্চিত্রের প্রতিশ্রুতি দেয় কিন্তু আপনি ক্রেডিট কার্ডের তথ্য না লিখলে আপনাকে প্রবেশ করতে দেয় না। আপনি কি করেন?",
+    "I search for the credit card of my parents to enter, it’s not a problem because the site told me it’s free.": "আমি প্রবেশ করার জন্য আমার পিতামাতার ক্রেডিট কার্ড অনুসন্ধান করি, এটি কোনও সমস্যা নয় কারণ সাইটটি আমাকে বলেছিল এটি বিনামূল্যে।",
+    "I ask my parents for permission first.": "আমি প্রথমে আমার বাবা-মায়ের অনুমতি চাই।",
+    "I leave the site and don’t fill in anything.": "আমি সাইট ত্যাগ করি এবং কিছু পূরণ করি না।",
+
+    "One of your friends suddenly sends you a message (with link) in a different language. What do you do?":
+    "আপনার একজন বন্ধু হঠাৎ করে আপনাকে একটি ভিন্ন ভাষায় (লিঙ্ক সহ) একটি বার্তা পাঠায়। আপনি কি করেন?",
+    "I ask my friend why he sent this message, he does not reply fast so I open the message.": "আমি আমার বন্ধুকে জিজ্ঞাসা করি সে কেন এই মেসেজ পাঠিয়েছে, সে দ্রুত উত্তর না দিলে আমি মেসেজটি খুলি।",
+    "I ignore the message ": "আমি বার্তা উপেক্ষা করি।",
+    "I click on the link to see what he sent me.": "তিনি আমাকে কি পাঠিয়েছেন তা দেখতে আমি লিঙ্কটিতে ক্লিক করি।",
+
+    "You are looking for quick ways to collect coins in a game you play. A website offers you these coins for free, but requires you to fill in your real name, account username and password. What do you do?":
+    "আপনি যে গেম খেলেন তাতে কয়েন সংগ্রহ করার দ্রুত উপায় খুঁজছেন। কোন ওয়েবসাইট বিনামূল্যে কয়েন অফার করে, কিন্তু আপনাকে আপনার নাম, অ্যাকাউন্ট ব্যবহারকারীর নাম এবং পাসওয়ার্ড চাইলে আপনি কি করেন?",
+    "I want the coins so I fill in the information needed.": "আমি কয়েন চাই, তাই আমি প্রয়োজনীয় তথ্য পূরণ করি।",
+    "I look for reviews of the website online.": "আমি অনলাইনে ওয়েবসাইটের রিভিউ খুঁজি। ",
+    "I don’t fill in any information and close the website.": "আমি কোনো তথ্য পূরণ করি না এবং ওয়েবসাইট বন্ধ করি।",
+
+    "A website you just opened tells you that your device has problems and asks permission to access your hard drive. What do you do?":
+    "এইমাত্র খোলা একটি ওয়েবসাইট আপনাকে বলে যে আপনার ডিভাইসে সমস্যা আছে এবং আপনার হার্ড ড্রাইভ অ্যাক্সেস করার অনুমতি চায়৷ আপনি কি করেন?",
+    "I close the website and ignore the request.": "আমি ওয়েবসাইট বন্ধ করে অনুরোধ উপেক্ষা করি। ",
+    "I search for more information about this website online.": "আমি অনলাইনে এই ওয়েবসাইট সম্পর্কে আরও তথ্য অনুসন্ধান করি।",
+    "I give the website access to my hard drive.": "আমি ওয়েবসাইটটিকে আমার হার্ড ড্রাইভে অ্যাক্সেস দিই।",
+
+    "Some of your friends told you about a new social media app that you can download on your phone. The app asks you for your name, age and location. What do you do?":
+    "আপনার কিছু বন্ধু আপনাকে একটি নতুন সোশ্যাল মিডিয়া অ্যাপ সম্পর্কে বলেছে যেটি আপনি আপনার ফোনে ডাউনলোড করতে পারেন৷ অ্যাপটি আপনাকে আপনার নাম, বয়স এবং অবস্থান জিজ্ঞাসা করবে। আপনি কি করেন?",
+    "I ask my parents what I should do.": "আমি আমার বাবা-মাকে জিজ্ঞাসা করি আমার কী করা উচিত।",
+    "I fill in my age and name, it can’t be harmful.": "আমি আমার বয়স এবং নাম পূরণ করি, এটি ক্ষতিকারক নয়।",
+    "I fill in a fake name, age and location.": "আমি একটি জাল নাম, বয়স এবং অবস্থান পূরণ করি।",
+    "Talk to npc to unlock next level.": "পরবর্তী স্তর আনলক করতে npc-এর সাথে কথা বলুন",
+
+    "How do you lock your mobile phone?":
+    "নি আপনার মোবাইল ফোন কিভাবে লক করেন?",
+    "With a pin code and my fingerprint/face-id.": "একটি পিন কোড এবং আমার আঙ্গুলের ছাপ/ফেস-আইডি সহ। ",
+    "With only my fingerprint/face-id.": "শুধুমাত্র আমার আঙ্গুলের ছাপ/ফেস-আইডি দিয়ে।",
+    "With only a password or pin code.": "শুধুমাত্র একটি পাসওয়ার্ড বা পিন কোড দিয়ে।",
+
+    "When using Instagram or TikTok, how do you manage your account?":
+    "ইনস্টাগ্রাম বা টিকটিক ব্যবহার করার সময়, আপনি কীভাবে আপনার অ্যাকাউন্ট পরিচালনা করবেন?",
+    "I keep my account public so everyone can see my pictures and videos.": "আমি আমার অ্যাকাউন্ট সর্বজনীন রাখি যাতে সবাই আমার ছবি এবং ভিডিও দেখতে পারে।",
+    "keep my account private and only let friends and family see my pictures.": "আমি আমার অ্যাকাউন্ট ব্যক্তিগত রাখি এবং শুধুমাত্র বন্ধু,পরিবারকে আমার ছবি দেখতে দিই। ",
+    "I only accept people that are followed by people I know.": "আমি শুধুমাত্র সেই লোকদেরই গ্রহণ করি যাদেরকে আমার পরিচিত লোকেরা অনুসরণ করে।"
+}
