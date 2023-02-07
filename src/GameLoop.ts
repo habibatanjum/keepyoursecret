@@ -189,7 +189,7 @@ class KeepYourSecrets {
   private backgroundMusic: HTMLAudioElement;
 
   constructor() {
-    this.backgroundMusic = new Audio("./assets/audio/HarryPotter.mp3");
+    this.backgroundMusic = new Audio("assets/audio/HarryPotter.mp3");
     this.backgroundMusic.loop = true;
   }
 

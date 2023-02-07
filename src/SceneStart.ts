@@ -20,10 +20,11 @@ export default class SceneStart extends Scene {
     super(maxX, maxY);
     this.starting = false;
     this.keylistener = new KeyListener();
-    this.audio = new Audio('assets/audio/Harry Potter Theme.mp3');
+    this.audio = new Audio('assets/audio/HarryPotter.mp3');
     this.isAudioPlaying = false;
     this.audio.volume = 0.1;
     this.timeToPlayAudio = 1;
+    this.audio.loop = true;
     this.logo = CanvasUtil.loadNewImage('./assets/StartScreen.png');
   }
 
@@ -33,8 +34,7 @@ export default class SceneStart extends Scene {
    */
   public override processInput(): void {
     if (this.keylistener.keyPressed(KeyListener.KEY_SPACE)) {
-      this.audio.pause();
-      this.starting = true;
+       this.starting = true;
     }
   }
 
@@ -45,13 +45,12 @@ export default class SceneStart extends Scene {
    * @returns new level when game starts
    */
   public override update(elapsed: number): Scene {
-    this.timeToPlayAudio -= elapsed;
-    if (this.timeToPlayAudio <= 0) this.isAudioPlaying = true;
-    if (this.isAudioPlaying && this.audio.autoplay === false) {
-      this.audio.autoplay = true;
-    }
     // Load scene when starting.
-    if (this.starting) return new Level(this.maxX, this.maxY);
+    if (this.starting)
+    {
+      this.audio.play();
+      return new Level(this.maxX, this.maxY);
+    }
     return null;
   }
 
